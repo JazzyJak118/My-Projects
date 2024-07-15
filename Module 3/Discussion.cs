@@ -10,7 +10,7 @@ public class Octopus
   {
   public readonly string Name;
   public int Age = 10;
-  static readonly int legs = 8, eyes = 1;
+  static readonly int legs = 8;
   }
 
  public Octopus(string name)
